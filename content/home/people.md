@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Meet the team
-subtitle: Subtitle
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -21,10 +21,10 @@ design:
   show_interests: false
   show_role: true
   show_social: true
-  background:
-    gradient_start: '#f5f5f5'
-    gradient_end: '#f5f5f5'
-    gradient_angle: 180
+  # background:
+  #   gradient_start: '#f5f5f5'
+  #   gradient_end: '#f5f5f5'
+  #   gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    # text_color_light: false
 ---

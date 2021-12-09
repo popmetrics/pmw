@@ -5,7 +5,7 @@ name = "Custom Theme"
 is_light = true
 
 # Primary
-primary = "#0072ff"
+primary = "#009FFD"
 
 # Links
 link = "#3273dc"
@@ -14,9 +14,9 @@ link_hover = "rgb(54, 54, 54)"
 # Menu
 menu_primary = "rgb(153,238,255)"
 menu_text = "#000"
-menu_text_active = "#0072ff"
+menu_text_active = "#EAF6FF"
 menu_title = "#000"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
+home_section_odd =  "rgb(234, 246, 255)"
 home_section_even = "rgb(255, 255, 255)"

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jake Pry, PhD (he/him)
+title: Jake Pry, PhD, MPH (he/him)
 
 # Username (this should match the folder name)
 authors:
@@ -21,9 +21,12 @@ role: Epidemiologist and Statistician
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Disease surveillance  
+- Meaningful reporting  
+- leveraging large, routine data to provide evidence to tailor/guide policy  
+- Mixed-methods analyses  
+- Co-morbidity modelling  
+
 
 education:
   courses:
@@ -61,4 +64,4 @@ user_groups:
 - Partners
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a senior epidemiologist working in enhanced COVID-19 surveillance with the California Department of Global Health. I am also a visiting scientist with the Center for Inferctious Disease Research Zambia (CIDRZ) and serve as part-time adjunct faculty for the University of California, Davis School of Medicine. My experience as an epidemiologist has been diverse including SARS-CoV-2 research in the state of California, as a regional communicable disease surveillance epidemiologist in Northern California, and HIV implementation science research in Zambia. In California my research has revolved around better understanding the relationship between community exposures and SARS-CoV-2 transmission and COVID-19 vaccine effectiveness in the ever-changing context of SARS-CoV-2 variants circulating. Abroad my research has coalesced around HIV/non-communicable disease (NCD) co-morbidity, especially hypertension and chronic kidney disease. I have practiced a One Health/Planetary Health approach to understand a more comprehensive consideration of potential etiologies for chronic kidney disease of uknown etiology (CKDu) in Sri Lanka. In addition, I have analyzed outcomes for a large project implementing four HIV differentiated service deliever models. Previous work has largely focused on persons living with HIV however, I am currently funded through the Center for Disease Control and Prevention’s (CDC) epidemiology and laboratory capacity. I have an extensive knowledge of the national HIV electronic medical record in Zambia that I am able to apply to novel linkage projects including HIV self-testing outcomes. I have mentored young Zambian scientists to translate program implementation into peer reviewed abstracts and manuscripts. In summary, I am interested in leveraging the vast bodies of exisiting programmatic data to optimize public health in both well-resourced and limited-resource settings.

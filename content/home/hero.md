@@ -7,11 +7,11 @@ hero_media: mask.jpeg
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: 'rgb(254,245,243)'
+    gradient_end: 'rgb(0,159,253)'
     text_color_light: false
 cta:
-  url: course/
+  url: /#people
   label: Meet the team
   icon_pack: fas
   icon: users

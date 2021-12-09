@@ -3,7 +3,7 @@ widget: people
 headless: false  # This file represents a page section.
 
 title: Meet the team
-subtitle:
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.

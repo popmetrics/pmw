@@ -2,8 +2,8 @@
 widget: pages
 headless: true  # This file represents a page section.
 
-title: Selected Publications
-subtitle: 
+title: Publications
+subtitle: A selection of our peer-reviewed work.
 
 # Order that this section appears on the page.
 weight: 70

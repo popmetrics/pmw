@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: The Popmetrics Approach
-subtitle: Here's a subtitle
+title: How to adjust to the new normal
+subtitle: With over 30 years of combined experience, our public health experts, epidemiologists, and medical doctors advise and create bespoke plans for your organization to face modern public health challenges so you can carry on safely. 
 feature:
+  - icon: door-open
+    icon_pack: fas
+    name: Reopening Strategy
+    description: Development of plans to safely reopen that include testing, operations, and monitoring.
   - icon: atom
     icon_pack: fas
-    name: 1\. Science
-    description: We are badass scientists.
-  - icon: microscope
+    name: Scientific Interpretation
+    description: We stay on top of breaking research and regulation and relate it to your organization's operations. 
+  - icon: chart-line
     icon_pack: fas
-    name: 2\. More science
-    description: We might even know how to use a microscope.
-  - icon: globe
-    icon_pack: fas
-    name: 3\. And then you're done
-    description: You can thank us later. 
+    name: Epidemiological Analysis
+    description: Cutting-edge models and statistics to inform trend analysis, program evaluation, and more. 
 ---
