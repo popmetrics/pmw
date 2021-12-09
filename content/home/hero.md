@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Have you adapted to the Aftertimes?
 hero_media: student.svg
 design:
   background:
@@ -12,9 +12,9 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Explore our courses
+  label: Meet the team
   icon_pack: fas
-  icon: user-graduate
+  icon: users
 cta_alt:
   url:
   label:
@@ -25,8 +25,4 @@ advanced:
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.
-
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+Our doctors and public health experts 🧑‍⚕️ 🧑‍🔬  specialize in applied epidemiology 🦠 🔬 to keep organizations moving forward.
