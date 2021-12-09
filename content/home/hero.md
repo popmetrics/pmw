@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Have you adapted to the Aftertimes?
-hero_media: student.svg
+hero_media: mask.jpeg
 design:
   background:
     gradient_angle: 0
@@ -25,4 +25,4 @@ advanced:
 ---
 <br>
 
-Our doctors and public health experts 🧑‍⚕️ 🧑‍🔬  specialize in applied epidemiology 🦠 🔬 to keep organizations moving forward.
+Our doctors and public health experts specialize in applied epidemiology to keep organizations moving forward.
